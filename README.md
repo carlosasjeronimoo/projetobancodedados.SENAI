@@ -1,8 +1,17 @@
-[Nome do Projeto]
-[imagem ilustrativa do projeto]
-Descrição
-Breve descrição do que é o projeto e qual problema ele pretende
-resolver.
+## PROJETO BANCO DE DADOS - UNIVERSIDADE
+![imagem ilustrativa do projeto](https://github.com/carlosasjeronimoo/projetobancodedados.SENAI/blob/main/BANNER.JPG)
+
+<P>Suponha que seja necessário um banco de dados para acompanhar
+as matrículas de aluno em disciplinas e as notas finais dos alunos
+Depois de analisar as regras do minimundo e as necessidades dos
+usuários, determinaram-se os requisitos para esse banco de dados
+da seguinte forma (para resumir, mostramos os nomes de tipo de
+entidade e atributo escolhidos para o esquema conceitual entre
+parênteses, enquanto descrevemos os requisitos; os nomes de tipo de
+relacionamento aparecem apenas no diagrama do esquema ER).<P>
+
+
+
 Tabela de Conteúdos
 1. Instalação
 2. Uso
